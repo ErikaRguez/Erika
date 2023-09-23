@@ -2,10 +2,10 @@
 
 
 - 🌱 I’m currently learning Python, Java and programming frontend in Tecnolochicas, 
-- 👯 I’m looking to collaborate on ... New projects in programming web for acquire new knowledge
-- 🤔 I’m looking for help with ... The development of soft skills
-- 💬 Ask me about ... Math
-- 📫 How to reach me: ... erikaesparza0818@gmail.com
+- 👯 I’m looking to collaborate on  New projects in programming web for acquire new knowledge
+- 🤔 I’m looking for help with The development of soft skills
+- 💬 Ask me about  Math
+- 📫 How to reach me:  erikaesparza0818@gmail.com
 - 😄 Pronouns: ... she/her
 
   ## 💻 Some technologies that I use:
